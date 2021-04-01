@@ -1,13 +1,13 @@
 {
   "main.css": "/course-directory/static/css/main.245f2e85.chunk.css",
-  "main.js": "/course-directory/static/js/main.4cd0a378.chunk.js",
-  "main.js.map": "/course-directory/static/js/main.4cd0a378.chunk.js.map",
-  "static/js/1.f1114e38.chunk.js": "/course-directory/static/js/1.f1114e38.chunk.js",
-  "static/js/1.f1114e38.chunk.js.map": "/course-directory/static/js/1.f1114e38.chunk.js.map",
+  "main.js": "/course-directory/static/js/main.6f239ec2.chunk.js",
+  "main.js.map": "/course-directory/static/js/main.6f239ec2.chunk.js.map",
+  "static/js/1.25a97381.chunk.js": "/course-directory/static/js/1.25a97381.chunk.js",
+  "static/js/1.25a97381.chunk.js.map": "/course-directory/static/js/1.25a97381.chunk.js.map",
   "runtime~main.js": "/course-directory/static/js/runtime~main.527751ac.js",
   "runtime~main.js.map": "/course-directory/static/js/runtime~main.527751ac.js.map",
   "static/css/main.245f2e85.chunk.css.map": "/course-directory/static/css/main.245f2e85.chunk.css.map",
   "index.html": "/course-directory/index.html",
-  "precache-manifest.0d8c1cee85b5ff16c17e0e9198104f05.js": "/course-directory/precache-manifest.0d8c1cee85b5ff16c17e0e9198104f05.js",
+  "precache-manifest.13b9ae8a2a60490db2f20ec7d3b6f082.js": "/course-directory/precache-manifest.13b9ae8a2a60490db2f20ec7d3b6f082.js",
   "service-worker.js": "/course-directory/service-worker.js"
 }
